@@ -35,6 +35,6 @@ Usage:
 - The script will output the SSL certificate information, including its validity and expiration date.
 
 
-Contributing: 
+Contributing:
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
