@@ -38,15 +38,15 @@ Contributing:
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
-License
+License: 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
-Acknowledgments
+Acknowledgments: 
 This script utilizes the OpenSSL library to extract SSL certificate information.
 
 
-Disclaimer
+Disclaimer: 
 Please note that this script is provided as-is without any warranty. Use it at your own risk.
 
 ```css
