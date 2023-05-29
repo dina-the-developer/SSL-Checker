@@ -34,8 +34,21 @@ Usage:
 - Run the script using the instructions mentioned in the installation section.
 - The script will output the SSL certificate information, including its validity and expiration date.
 
-
 Contributing:
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Acknowledgments
+This script utilizes the OpenSSL library to extract SSL certificate information.
+
+Disclaimer
+Please note that this script is provided as-is without any warranty. Use it at your own risk.
+
+```css
+
+Make sure to update the repository URLs, project description, and other relevant information accordingly. Additionally, if you have any specific instructions or additional sections you want to include, feel free to customize the README to suit your needs.
+
 
