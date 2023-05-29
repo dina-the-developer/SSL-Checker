@@ -19,8 +19,7 @@ A simple SSL checker script written in PHP to verify the SSL certificate validit
 
 2. Navigate to the project directory:
 
-   ```shell
-  cd ssl-checker-php
+   ```shell   cd ssl-checker-php
 
 3. Run the script:
 
