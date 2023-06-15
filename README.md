@@ -51,6 +51,6 @@ Please note that this script is provided as-is without any warranty. Use it at y
 
 ```css
 
-Make sure to update the repository URLs, project description, and other relevant information accordingly. Additionally, if you have any specific instructions or additional sections you want to include, feel free to customize the README to suit your needs.
+Make sure to update the repository URLs, project description, and other relevant information accordingly.
 
 
